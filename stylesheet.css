@@ -1,0 +1,56 @@
+@font-face {
+	font-family: lato-thin;
+	src: url(Lato/Lato-light.ttf);
+}
+
+@font-face {
+	font-family: lato-hairline;
+	src: url(Lato/Lato-hairline.ttf);
+}
+
+body {
+	text-align: center;
+	font-family: lato-thin;
+
+}
+
+h1 {
+
+	font-family: lato-hairline;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: lato-hairline;
+	font-size: 35px;
+}
+
+p {
+	font-size: 20px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+#bio {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 550px;
+}
+
+img {
+	border: none;
+	width: 450px;
+	height: auto;
+}
